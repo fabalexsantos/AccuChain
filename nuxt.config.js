@@ -62,6 +62,6 @@ module.exports = {
   },
   server: {
     port: 8086, // default: 3000
-    host: '127.0.0.1', // default: localhost
+    host: 'accuchain.herokuapp.com', // default: localhost
   }
 }
